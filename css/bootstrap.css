@@ -6,7 +6,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-  --blue: #007bff;
+  --blue: #080957;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -159,7 +159,7 @@ a {
 }
 
 a:hover {
-  color: #2d366d;
+  color: #080957;
   text-decoration: underline;
 }
 
@@ -2529,7 +2529,7 @@ textarea.form-control {
 }
 
 .btn:hover {
-  color: #212529;
+  color: #db3c14;
   text-decoration: none;
 }
 
@@ -2559,8 +2559,8 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #384488;
-  border-color: #343f7f;
+  background-color: #db3c14;
+  border-color: #db3c14;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -3045,9 +3045,9 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-light:hover {
-  color: #212529;
-  background-color: #f8f9fa;
-  border-color: #f8f9fa;
+  color: #ffffff;
+  background-color: #db3c14;
+  border-color: #db3c14;
 }
 
 .btn-outline-light:focus, .btn-outline-light.focus {
